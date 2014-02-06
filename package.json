@@ -1,0 +1,27 @@
+{
+  "name": "expressgroup",
+  "version": "0.1.2",
+  "description": "An extension to Express server to add grouping functionality",
+  "main": "index.js",
+  "author": {
+	"name":"Chris Johnson",
+	"email":"me@cmj.io",
+	"url":"http://github.com/edgeui"
+},
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:chrismj83/expressgroup.git"
+  },
+  "keywords": [
+    "express",
+    "path",
+    "group",
+    "urls",
+    "methods",
+    "grouping",
+    "middleware"
+  ]
+}

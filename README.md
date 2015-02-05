@@ -1,5 +1,7 @@
 # Express (Route) Grouping
 
+[![Join the chat at https://gitter.im/edgeui/expressgroup](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/edgeui/expressgroup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Using underscore or lodash you can now extend your express.js application to now include route grouping.  Group routes with a prefix.  For example if you wanted to group all your API routes, you can now do so.  Have a look at the example below for how to implement.
 
 
